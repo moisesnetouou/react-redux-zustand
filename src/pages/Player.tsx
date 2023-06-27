@@ -1,5 +1,5 @@
-import { ChevronDown, MessageCircle } from 'lucide-react'
-import ReactPlayer from 'react-player'
+import { MessageCircle } from 'lucide-react'
+
 import { Header } from '../components/Header'
 import { Video } from '../components/Video'
 import { Module } from '../components/Module'
